@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$config['first_tag_open'] = '${1:&lt;tag&gt;}';</string>
+	<key>name</key>
+	<string>$config['first_tag_open']</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cipag_c</string>
+	<key>uuid</key>
+	<string>ADACB01A-8A4C-4261-833D-E912C16082D3</string>
+</dict>
+</plist>

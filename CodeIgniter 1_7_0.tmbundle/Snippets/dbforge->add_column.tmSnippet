@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;dbforge-&gt;add_column(${1:\$fields});
+$0</string>
+	<key>name</key>
+	<string>dbforge-&gt;add_column</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cidbf</string>
+	<key>uuid</key>
+	<string>F0883D93-406C-4A7C-89BB-7C88FD219485</string>
+</dict>
+</plist>

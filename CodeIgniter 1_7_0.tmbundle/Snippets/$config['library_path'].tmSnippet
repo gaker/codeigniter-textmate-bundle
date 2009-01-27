@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$config['library_path'] = '${1:library_path}';
+$0</string>
+	<key>name</key>
+	<string>$config['library_path']</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ciimage_c</string>
+	<key>uuid</key>
+	<string>72F747C7-F66E-462D-9F58-D6C9DB0F1DEB</string>
+</dict>
+</plist>

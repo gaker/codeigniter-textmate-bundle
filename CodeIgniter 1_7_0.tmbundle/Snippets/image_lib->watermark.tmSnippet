@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;image_lib-&gt;watermark();</string>
+	<key>name</key>
+	<string>image_lib-&gt;watermark</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ciimage</string>
+	<key>uuid</key>
+	<string>F60B0C13-FA0B-4A49-ACF6-1B85E37805F4</string>
+</dict>
+</plist>

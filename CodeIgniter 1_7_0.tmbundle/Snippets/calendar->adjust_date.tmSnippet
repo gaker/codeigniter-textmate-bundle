@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;calendar-&gt;adjust_date(${1:month}, ${2:year});</string>
+	<key>name</key>
+	<string>calendar-&gt;adjust_date</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cical</string>
+	<key>uuid</key>
+	<string>3428D110-5102-48AC-9A13-7C40048D9590</string>
+</dict>
+</plist>

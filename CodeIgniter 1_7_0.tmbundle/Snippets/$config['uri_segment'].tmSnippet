@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$config['uri_segment'] = ${1:segment};</string>
+	<key>name</key>
+	<string>$config['uri_segment']</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cipag_c</string>
+	<key>uuid</key>
+	<string>75443F40-77FE-4E2E-92C9-A10FA0584814</string>
+</dict>
+</plist>

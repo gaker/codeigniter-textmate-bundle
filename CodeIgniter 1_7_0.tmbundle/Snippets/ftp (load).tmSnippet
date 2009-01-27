@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;load-&gt;library('ftp');</string>
+	<key>name</key>
+	<string>ftp (load)</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ciftp</string>
+	<key>uuid</key>
+	<string>5F5A207E-5F31-47D2-8CAD-28C86F7FC62F</string>
+</dict>
+</plist>

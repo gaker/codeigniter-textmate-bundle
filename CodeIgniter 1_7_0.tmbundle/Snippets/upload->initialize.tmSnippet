@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;upload-&gt;initialize(${:1config});</string>
+	<key>name</key>
+	<string>upload-&gt;initialize</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ciupload</string>
+	<key>uuid</key>
+	<string>5CBBFC61-C984-4A0E-8DEE-E5F696B759F0</string>
+</dict>
+</plist>

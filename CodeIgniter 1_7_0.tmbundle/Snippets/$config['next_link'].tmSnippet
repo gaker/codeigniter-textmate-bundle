@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$config['next_link'] = '${1:&amp;gt}';</string>
+	<key>name</key>
+	<string>$config['next_link']</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cipag_c</string>
+	<key>uuid</key>
+	<string>74E05EDC-8606-47CC-A142-1D8C57F8376A</string>
+</dict>
+</plist>

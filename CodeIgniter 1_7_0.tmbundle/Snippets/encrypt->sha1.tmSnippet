@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;encrypt-&gt;sha1(${1:'message'});</string>
+	<key>name</key>
+	<string>encrypt-&gt;sha1</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ciencrypt</string>
+	<key>uuid</key>
+	<string>A7D31866-2851-41A2-9B05-1701959FAC27</string>
+</dict>
+</plist>

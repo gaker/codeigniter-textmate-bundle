@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;load-&gt;library('encrypt');</string>
+	<key>name</key>
+	<string>encrypt (load)</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ciencrypt</string>
+	<key>uuid</key>
+	<string>67A1C5CC-323E-4728-8F78-F78C3B227D1D</string>
+</dict>
+</plist>

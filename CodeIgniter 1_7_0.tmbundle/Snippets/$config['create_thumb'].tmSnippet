@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$config['create_thumb'] = '${1:FALSE}';
+$0</string>
+	<key>name</key>
+	<string>$config['create_thumb']</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ciimage_c</string>
+	<key>uuid</key>
+	<string>DEE17C8D-0AB4-4BF4-B349-D942B107565B</string>
+</dict>
+</plist>

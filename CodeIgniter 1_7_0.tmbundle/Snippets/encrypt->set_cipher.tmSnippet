@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;encrypt-&gt;set_cipher(${1:'MCRYPT_BLOWFISH'});</string>
+	<key>name</key>
+	<string>encrypt-&gt;set_cipher</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ciencrypt</string>
+	<key>uuid</key>
+	<string>CDB9E058-39FA-4D96-928D-C139797DC161</string>
+</dict>
+</plist>
