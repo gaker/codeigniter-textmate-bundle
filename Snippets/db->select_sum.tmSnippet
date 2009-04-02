@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;db-&gt;select_sum('${1:field}'${2:, '${3:rename_to}'});
+$0</string>
+	<key>name</key>
+	<string>db-&gt;select_sum</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ciar</string>
+	<key>uuid</key>
+	<string>0411C9E0-708C-4082-A878-BBD5776ED3B4</string>
+</dict>
+</plist>

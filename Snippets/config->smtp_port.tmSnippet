@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>config['smtp_port'] = '${1:25}';
+$0</string>
+	<key>name</key>
+	<string>config-&gt;smtp_port</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ciemail_c</string>
+	<key>uuid</key>
+	<string>0C42FAF7-E513-4250-A3A6-D5E766C98E81</string>
+</dict>
+</plist>

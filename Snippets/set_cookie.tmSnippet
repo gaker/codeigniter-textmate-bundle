@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$${1:var} = array(
+                   'name'   =&gt; '${2:cookie_name}',
+                   'value'  =&gt; '${3:cookie_value}',
+                   'expire' =&gt; '${4:expiry_time}',
+                   'domain' =&gt; '${5:cookie_name}',
+                   'path'   =&gt; '${6:path}',
+                   'prefix' =&gt; '${7:prefix}',
+               );
+
+set_cookie(\$${1:var}); </string>
+	<key>name</key>
+	<string>set_cookie</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ciset_cookie</string>
+	<key>uuid</key>
+	<string>E29A9047-6339-4CEF-8A15-B3DE5309A6F9</string>
+</dict>
+</plist>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?php  if (!defined('BASEPATH')) exit('No direct script access allowed');
+/**
+ * ${1:project_name}
+ *
+ * @package		${1:project_name}
+ * @author		$TM_USERNAME
+ * @copyright	Copyright (c) 2009, $TM_USERNAME.
+ * @license		
+ * @link			
+ * @since			Version 1.0
+ * @filesource
+ */
+
+// ------------------------------------------------------------------------
+
+/**
+ * ${3:classname}
+ *
+ * @package ${1:project_name}
+ * @subpackage Controller
+ * @since 1.0
+ * @author $TM_USERNAME
+ **/
+class ${3:classname} extends ${4:Controller} {
+
+	/**
+	 * ${5:undocumented function}
+	 *
+	 * @return ${6:void}
+	 * @author $TM_USERNAME
+	 **/
+	function Index()
+	{
+		${0:// code...}
+	}
+
+}
+// End File ${3:classname}.php
+// File Source /system/application/controllers/${3:classname}.php</string>
+	<key>name</key>
+	<string>Controller</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cicont</string>
+	<key>uuid</key>
+	<string>34F8B086-47C5-4802-880D-4AFD54AC0938</string>
+</dict>
+</plist>

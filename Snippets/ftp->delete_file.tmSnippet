@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;ftp-&gt;delete_file('${1:file_path}');</string>
+	<key>name</key>
+	<string>ftp-&gt;delete_file</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ciftp</string>
+	<key>uuid</key>
+	<string>14EA46CC-73CA-4641-933A-B06D2F54C3F7</string>
+</dict>
+</plist>

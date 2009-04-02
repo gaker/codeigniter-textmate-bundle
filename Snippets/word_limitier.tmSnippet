@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\$var} = "${2:string}";
+
+${1:\$var} = word_limiter(${1:\$var}, ${3:num_words});
+</string>
+	<key>name</key>
+	<string>word_limitier</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ciwd_limit</string>
+	<key>uuid</key>
+	<string>33CFBC1F-E1FA-4C95-A90D-8E6D95412288</string>
+</dict>
+</plist>

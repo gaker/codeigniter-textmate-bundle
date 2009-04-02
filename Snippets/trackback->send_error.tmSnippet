@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;trackback-&gt;send_error('${:1Error Message}');</string>
+	<key>name</key>
+	<string>trackback-&gt;send_error</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>citrack</string>
+	<key>uuid</key>
+	<string>1AEB1F54-9C4A-4AC5-9F36-D46EEBDAADF9</string>
+</dict>
+</plist>

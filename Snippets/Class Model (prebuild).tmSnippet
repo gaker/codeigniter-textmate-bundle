@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?php  if (!defined('BASEPATH')) exit('No direct script access allowed');
+/**
+ * ${1:project_name}
+ *
+ * @package		${1:project_name}
+ * @author		$TM_USERNAME
+ * @copyright	Copyright (c) 2009, $TM_USERNAME.
+ * @license		
+ * @link			
+ * @since			Version 1.0
+ * @filesource
+ */
+
+// ------------------------------------------------------------------------
+
+/**
+ * ${3:classname}
+ *
+ * @package ${1:project_name}
+ * @subpackage Controller
+ * @since 1.0
+ * @author $TM_USERNAME
+ **/
+class ${3:classname}_model extends Model {
+
+	/**
+	 * ${4:undocumented function}
+	 *
+	 * @return ${5:void}
+	 * @author $TM_USERNAME
+	 **/
+	function ${3:classname}_model()
+	{
+		parent::Model();
+		log_message('debug', '${3:classname} Model Initialized');
+		${0:}
+	}
+
+// ------------------------------------------------------------------------
+
+}
+// End File ${3:classname}.php
+// File Source /system/application/models/${3:classname}.php</string>
+	<key>name</key>
+	<string>Class Model (prebuild)</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cimodel</string>
+	<key>uuid</key>
+	<string>F4DDF650-2371-4958-91AA-D39FBADA0CEF</string>
+</dict>
+</plist>

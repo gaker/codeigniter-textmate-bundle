@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;ftp-&gt;rename('${1:original_name}', '${2:new_name}');</string>
+	<key>name</key>
+	<string>ftp-&gt;rename</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ciftp</string>
+	<key>uuid</key>
+	<string>560B3B61-CFE2-40A7-B5E6-51A108C0F3EA</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>echo word_wrap(${1:\$string}, {2:char_count});</string>
+	<key>name</key>
+	<string>word_wrap</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ciword_wrap</string>
+	<key>uuid</key>
+	<string>8594A35C-9B15-4B2B-9D47-4DEFC7EDE439</string>
+</dict>
+</plist>

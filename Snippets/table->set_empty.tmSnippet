@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;table-&gt;set_empty("${1:&amp;nbsp;}");</string>
+	<key>name</key>
+	<string>table-&gt;set_empty</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cihtml</string>
+	<key>uuid</key>
+	<string>D35A89D4-92B1-49F4-BCE2-CB1FB4D6F1D6</string>
+</dict>
+</plist>

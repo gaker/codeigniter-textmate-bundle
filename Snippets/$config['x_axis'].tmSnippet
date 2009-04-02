@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$config['x_axis'] = '${1:0}';
+$0</string>
+	<key>name</key>
+	<string>$config['x_axis']</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ciimage_c</string>
+	<key>uuid</key>
+	<string>AF10312A-4D85-460C-BAE1-C2713C83310F</string>
+</dict>
+</plist>

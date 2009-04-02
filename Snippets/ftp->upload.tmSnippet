@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;ftp-&gt;upload('${1:/local/path/to/myfile.html}', '${2:/public_html/myfile.html}', '${3:auto}');</string>
+	<key>name</key>
+	<string>ftp-&gt;upload</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ciftp</string>
+	<key>uuid</key>
+	<string>263A1C76-E5BF-4B0F-94B4-905E31B1AE2D</string>
+</dict>
+</plist>

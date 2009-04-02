@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$str = highlight_code(${2:\$code});</string>
+	<key>name</key>
+	<string>highlight_code</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cihighlight</string>
+	<key>uuid</key>
+	<string>327D8FCB-BD05-46B1-B5B1-6BA58F119E62</string>
+</dict>
+</plist>

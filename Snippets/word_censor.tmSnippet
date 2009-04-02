@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:\$str} = word_censor(${1:\$str}, ${2:\$naughty_words_array}, '${3:Word Replacement}}');</string>
+	<key>name</key>
+	<string>word_censor</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ciwd_censor</string>
+	<key>uuid</key>
+	<string>1BAA28B4-C8C5-4A7C-BA1B-674268AFD9DE</string>
+</dict>
+</plist>

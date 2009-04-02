@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$config['first_link'] = '${1:First}';</string>
+	<key>name</key>
+	<string>$config['first_link']</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cipag_c</string>
+	<key>uuid</key>
+	<string>C0556CA2-E449-4CE3-A5B8-6B9217B801AD</string>
+</dict>
+</plist>

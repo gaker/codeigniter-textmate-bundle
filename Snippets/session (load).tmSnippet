@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;load-&gt;library('session');
+$0</string>
+	<key>name</key>
+	<string>session (load)</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cisession</string>
+	<key>uuid</key>
+	<string>90396E80-56BA-4A1D-9743-5C055115A8DF</string>
+</dict>
+</plist>

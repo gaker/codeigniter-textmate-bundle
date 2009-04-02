@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;dbutil-&gt;backup(${1:\$backup_prefs});
+$0</string>
+	<key>name</key>
+	<string>dbutil-&gt;backup</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>cidbu</string>
+	<key>uuid</key>
+	<string>B51FDB76-E37E-41D5-B575-B37D0A0AD85D</string>
+</dict>
+</plist>

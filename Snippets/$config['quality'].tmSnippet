@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$config['quality'] = '${1:90%}';
+$0</string>
+	<key>name</key>
+	<string>$config['quality']</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ciimage_c</string>
+	<key>uuid</key>
+	<string>B4B3F1E2-EDE7-46B6-AF2E-1244A96584DB</string>
+</dict>
+</plist>

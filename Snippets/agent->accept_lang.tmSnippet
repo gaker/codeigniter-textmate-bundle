@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;agent-&gt;accept_lang('${1:en}');</string>
+	<key>name</key>
+	<string>agent-&gt;accept_lang</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ciagent</string>
+	<key>uuid</key>
+	<string>41430134-5C7C-46F1-8BC2-4DC90C0F3EE0</string>
+</dict>
+</plist>

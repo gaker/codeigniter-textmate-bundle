@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;db-&gt;count_all('${1:table_name}');</string>
+	<key>name</key>
+	<string>db-&gt;count_all</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>ciarc</string>
+	<key>uuid</key>
+	<string>35D862BC-C82E-4202-BAEE-D3098F1C35FC</string>
+</dict>
+</plist>
